@@ -1,0 +1,15 @@
+{
+    "name": "kata-sumofdigits",
+    "version": "1.0.0",
+    "description": "Solution for codewars--sum of digits, TDD practice.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "unwana.essien@outlook.com",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "jest": "^24.8.0"
+    }
+}
